@@ -1,0 +1,6 @@
+{
+  "name": "SatFinder Standard",
+  "description": "Native Android app for satellite alignment with built-in database, real-time compass, and polar orthonormal tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
